@@ -2,7 +2,7 @@
 slug: state-management
 title: "A Short Guide to React’s Powerful Duo : useReducer and UseContext"
 authors: DevGenX
-tags: [hello, docusaurus]
+tags: [Hooks, Redux, Context]
 ---
 
 ![TradingLeague](../static/img/fusiongoku.png)

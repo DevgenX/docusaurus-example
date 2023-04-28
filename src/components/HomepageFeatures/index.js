@@ -21,12 +21,10 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_cloud_hosting_7xb1.svg").default,
     description: (
       <>
-        As a knowledgeable DevOps professional, I possess extensive experience
-        in managing complex infrastructure and deployments on cloud platforms
-        such as AWS, Google Cloud, and Azure. My expertise in implementing and
-        maintaining Continuous Integration and Continuous Deployment (CI/CD)
-        pipelines has enabled me to streamline software development processes
-        and enhance team collaboration.
+        As an experienced DevOps professional, I've managed complex
+        infrastructure and deployments on AWS, Google Cloud, and Azure. I
+        specialize in implementing and maintaining CI/CD pipelines to streamline
+        software development processes and promote team collaboration.
       </>
     ),
   },

@@ -39,7 +39,15 @@ const config = {
     ],
   ],
   themeConfig: {
+    announcementBar: {
+      id: "govern",
+      content: "Just a random announcement 🏛️",
+      backgroundColor: "#5991c7",
+      textColor: "#ffffff",
+      isCloseable: true,
+    },
     navbar: {
+      hideOnScroll: true,
       title: "Sebastian Gonzales",
       logo: {
         alt: "syb-logo",
@@ -52,7 +60,7 @@ const config = {
           position: "left",
         },
         { to: "/blog", label: "Blogs", position: "left" },
-        { to: "/projects", label: "Projects", position: "left" },
+        // { to: "/projects", label: "Projects", position: "left" },
         {
           href: "https://github.com/DevgenX",
           label: "GitHub",
@@ -68,27 +76,6 @@ const config = {
     footer: {
       style: "dark",
       links: [
-        {
-          title: "Projects",
-          items: [
-            {
-              label: "TradingLeague",
-              to: "projects/tradingleague",
-            },
-            {
-              label: "Jobby",
-              to: "projects/jobby/",
-            },
-            {
-              label: "Degen Clothing",
-              to: "projects/degen/",
-            },
-            {
-              label: "Flatstagram",
-              to: "projects/flatstagram/",
-            },
-          ],
-        },
         {
           title: "Official Links",
           items: [
