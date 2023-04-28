@@ -1,0 +1,9 @@
+{
+  "label": "Whitepaper",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn more about TradingLeague",
+    "image": "../../static/img/logo192.png"
+  }
+}

@@ -4,33 +4,42 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "Easy to Use",
-    Svg: require("@site/static/img/undraw_drink_coffee_r0kv.svg").default,
+    title: "Full-stack Developer",
+    Svg: require("@site/static/img/undraw_javascript_frameworks_-8-qpc.svg")
+      .default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        As a full-stack developer, I am proficient in both front-end and
+        back-end development. With my skills and experience, I am able to build
+        robust and scalable web applications that meet the needs of businesses
+        and users alike.
       </>
     ),
   },
   {
-    title: "Focus on What Matters",
-    Svg: require("@site/static/img/undraw_experience_design_re_dmqq.svg")
-      .default,
+    title: "DevOps",
+    Svg: require("@site/static/img/undraw_cloud_hosting_7xb1.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        As a knowledgeable DevOps professional, I possess extensive experience
+        in managing complex infrastructure and deployments on cloud platforms
+        such as AWS, Google Cloud, and Azure. My expertise in implementing and
+        maintaining Continuous Integration and Continuous Deployment (CI/CD)
+        pipelines has enabled me to streamline software development processes
+        and enhance team collaboration.
       </>
     ),
   },
   {
     title: "Powered by React",
-    Svg: require("@site/static/img/undraw_ready_for_waves_vlke.svg").default,
+    Svg: require("@site/static/img/undraw_team_collaboration_re_ow29.svg")
+      .default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        As a team player, I thrive in collaborative environments where every
+        team member's input is valued and utilized to achieve our common goals.
+        I believe that effective communication, active listening, and mutual
+        respect are key components of successful teamwork.
       </>
     ),
   },
